@@ -1,0 +1,2 @@
+onnxruntime==1.31.1
+einops==0.8.1
